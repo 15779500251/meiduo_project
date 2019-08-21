@@ -1,0 +1,4 @@
+WARNING 2019-08-21 12:14:36,583 base 152 Not Found: /carts/simple/
+WARNING 2019-08-21 12:14:36,587 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 1973
+WARNING 2019-08-21 12:14:36,654 base 152 Not Found: /favicon.ico
+WARNING 2019-08-21 12:14:36,660 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1967

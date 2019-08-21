@@ -2,6 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a6ba64-c377-4e78-bec1-06d125c5e24c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/logs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/logs/meiduo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/css/jquery.pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/goods_judge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/QQ-weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/adv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/adv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/bar_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/clock.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/find-password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods/goods009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/goods_450.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/icons02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/interval_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/left_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/login_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/logo02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/pay_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/pic_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/register_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/shine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/shop_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/slide01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/slide04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/images/time_count_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/axios-0.18.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/goods_judge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/host.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/jquery.pagination.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/oauth_callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/order_success.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/place_order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/user_center_info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/user_center_order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/user_center_pass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/user_center_site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/vue-2.5.16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/oauth_callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/order_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/pay_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/place_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/user_center_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/user_center_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/user_center_pass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/user_center_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,10 +104,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
+            <state relative-caret-position="330">
               <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
             </state>
           </provider>
@@ -24,17 +116,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
-              <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
+            <state relative-caret-position="113">
+              <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/logs/meiduo.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/logs/.gitkeep">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/base.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -109,13 +216,6 @@
               <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
               <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="meiduo_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiduo_project" type="462c0819:PsiDirectoryNode" />
-              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="settings" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -125,13 +225,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/setting" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meiduo_mall/meiduo_mall" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall" />
       <recent name="$PROJECT_DIR$/meiduo_mall/meiduo_mall/setting" />
     </key>
   </component>
@@ -213,19 +314,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566386657307</updated>
-      <workItem from="1566386665556" duration="2323000" />
+      <workItem from="1566386665556" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2323000" />
+    <option name="totallyTimeSpent" value="2892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="733" height="575" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -235,7 +335,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2552204" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2552204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -251,7 +351,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/meiduo_project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1566388993085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall" />
+    <SUITE FILE_PATH="coverage/meiduo_project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1566389629613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall" />
     <SUITE FILE_PATH="coverage/meiduo_project$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1566388464155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meiduo_mall/meiduo_mall" />
   </component>
   <component name="editorHistoryManager">
@@ -271,23 +371,32 @@
     <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meiduo_mall/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
+        <state relative-caret-position="330">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/logs/meiduo.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/logs/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/static/js/base.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
