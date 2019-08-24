@@ -28,9 +28,9 @@
 				<ul>
 					<li>
 						<label>用户名:</label>
-						<input type="text" name="username" id="user_name">
-						<span class="error_tip">请输入5-20个字符的用户</span>
-					</li>					
+						<input v-model="username" @blur="check_username" type="text" name="user_name" id="user_name">
+                        <span v-show="error_name" class="error_tip">请输入5-20个字符的用户</span>
+                    </li>
 					<li>
 						<label>密码:</label>
 						<input type="password" name="password" id="pwd">
